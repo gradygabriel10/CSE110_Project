@@ -1,3 +1,5 @@
 # CSE110_Project
 
 Grady's User Page
+
+My favorite programming language is Python. 
