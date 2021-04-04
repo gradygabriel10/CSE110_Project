@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Hi there, I'm Grady Gabriel, let me introduce myself!
 
-You can use the [editor on GitHub](https://github.com/gradygabriel10/CSE110_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### This is a photo of me and my lovely little sister in Bali, Indonesia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![lilsis_me](https://user-images.githubusercontent.com/48643915/113398992-51922400-9354-11eb-9f2f-375b82b499fb.PNG)
 
-### Markdown
+Let me share a story of mine as a programmer. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have enjoyed coding since I was in high school. The first programming language that I learned is HTML/CSS which was introduced by my IT teacher. Since then, the chemistry of me and computer had improved and I saw a bright future for me as a programmer. My current goal is to study deeper about computer science and find my area of expertise. Besides that, I already knew that my long-term goal is to grow the technology in my birth country, Indonesia.  
 
-```markdown
-Syntax highlighted code block
+My motivation quote is from Walt Disney:
 
-# Header 1
-## Header 2
-### Header 3
+> “The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney 
 
-- Bulleted
-- List
+This is a simple code to create a navigation bar with HTML
+```
+ <!DOCTYPE html>
+ <html>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="/w3css/3/w3.css">
+ <body>
 
-1. Numbered
-2. List
+<!-- Navigation -->
+<nav class="w3-bar w3-black">
+  <a href="#home" class="w3-button w3-bar-item">Home</a>
+  <a href="#band" class="w3-button w3-bar-item">Band</a>
+  <a href="#tour" class="w3-button w3-bar-item">Tour</a>
+  <a href="#contact" class="w3-button w3-bar-item">Contact</a>
+</nav>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+</body>
+</html>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+My current programming language knowledge:
+ - C++
+ - JAVA
+ - HTML/CSS/Javascript
+ - R
+ - React
 
-### Jekyll Themes
+This is the link to my **Linkedin**!
+    
+(http://www.linkedin.com/in/grady-gabriel-6ab442191) 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gradygabriel10/CSE110_Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
